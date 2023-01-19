@@ -1,7 +1,7 @@
-package site.jinchuan;
+package Exercise98;
 
 // IndexOutOfBounds Exception Exercise
-public class Ex1_98
+public class Ex1
 {
     public static void main(String[] args)
     {

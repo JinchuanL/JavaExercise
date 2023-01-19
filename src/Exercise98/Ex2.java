@@ -1,7 +1,7 @@
-package site.jinchuan;
+package Exercise98;
 
 // NumberFormatException Exercise
-public class Ex2_98
+public class Ex2
 {
     public static void main(String[] args)
     {
@@ -9,6 +9,5 @@ public class Ex2_98
         String s = "HelloWorld";
 
         a = Double.parseDouble(s);
-
     }
 }
